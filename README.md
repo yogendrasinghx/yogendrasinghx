@@ -50,7 +50,7 @@ location:    Pune, India
 | 📱 [**TurboCDroid**](https://play.google.com/store/apps/details?id=www.turboc8.com.turbocdroider&hl=en_IN) | Developer of Turbo C++ on Android with 1M+ downloads |
 | 🐛 [**AI Bug Reporter**](https://bugreport.dev) | Converts bug descriptions into professional reports for GitHub, Jira, Azure DevOps & Linear |
 | 🧪 [**QA Ready**](https://qaready.net) | Free interview prep platform with 130+ questions for QA Engineers & SDETs covering JS, Playwright & testing |
-| 🗜️ [**ShortPNG**](https://yogendrasingh.in) | Browser-based image compression, up to 90% reduction with zero quality loss |
+| 🗜️ [**ShortPNG**](https://shortpng.com/) | Browser-based image compression, up to 90% reduction with zero quality loss |
 
 ---
 
