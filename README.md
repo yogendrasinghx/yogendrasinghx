@@ -1,7 +1,6 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Yogendra Singh</h1>
-<h3>Full-Stack Engineer @ Ultralytics · Building Web & AI Powered Systems · 87K+ YouTube Subscribers</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Yogendra+Singh;Full-Stack+Engineer+%40+Ultralytics;Building+Web+%2B+AI+Powered+Systems;87K%2B+YouTube+Subscribers" alt="Typing SVG" />
 
 <br/>
 
