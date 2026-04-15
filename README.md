@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Yogendra+Singh;Full-Stack+Engineer+%40+Ultralytics;Building+Web+%2B+AI+Powered+Systems;87K%2B+YouTube+Subscribers" alt="Typing SVG" />
+<h1>Hi 👋, I'm Yogendra Singh</h1>
+<h3>Full-Stack Engineer @ Ultralytics · Building Web & AI Powered Systems · 87K+ YouTube Subscribers</h3>
 
 <br/>
 
@@ -103,13 +104,6 @@ location:    Pune, India
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yogendrasinghx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogendrasinghx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
 
 <div align="center">
 
