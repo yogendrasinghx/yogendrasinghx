@@ -1,77 +1,134 @@
-<h1 align="center">Hi 👋, I'm Yogendra Singh</h1>
-<h3 align="center">A Full-Stack Software Engineer building scalable web platforms & AI-powered systems</h3>
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yogendrasinghx&label=Profile%20views&color=0e75b6&style=flat" alt="yogendrasinghx" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Yogendra+Singh;Full-Stack+Engineer+%40+Ultralytics;Building+Web+%2B+AI+Powered+Systems;87K%2B+YouTube+Subscribers" alt="Typing SVG" />
+
+<br/>
+
+<p>
+  <a href="https://yogendrasingh.in" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-yogendrasingh.in-6366F1?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yogendrasinghx/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-yogendrasinghx-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/c/techdecode" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-TechDecode-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:contact@yogendrasingh.in">
+    <img src="https://img.shields.io/badge/Email-contact%40yogendrasingh.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-- 🔭 I’m currently working on **[Ultralytics Platform](https://platform.ultralytics.com/)**, Train and deploy custom computer vision YOLO models easily.  
-- 🧠 I design and ship **Frontend, Backend, and Cloud infrastructure** End-to-End  
-- 🧪 I built **[QA Ready](https://qaready.net/)** Free interview prep platform for QA Engineers & SDETs with 70+ coding questions and 60+ theory questions covering JavaScript, Playwright, testing methodologies, and more
-- 📫 How to reach me **contact@yogendrasingh.in**
-- 🌐 Check out my portfolio at [yogendrasingh.in](https://yogendrasingh.in)
+<img src="https://komarev.com/ghpvc/?username=yogendrasinghx&label=Profile+Views&color=6366f1&style=flat-square" alt="profile views" />
 
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/yogendrasinghx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yogendrasinghx/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/techdecode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/techdecode" height="30" width="40" /></a>
-<a href="https://leetcode.com/yogendrasinghx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/yogendrasinghx/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+## 🚀 About Me
 
-<!-- Frontend -->
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-</a>
+Full-Stack Engineer **[@Ultralytics](https://ultralytics.com)** with **6+ years** building production-grade web platforms, SaaS products, and AI-powered computer vision systems. I own the full stack: Frontend, Backend, Cloud Infrastructure, and ML integration, shipping end-to-end.
 
-<!-- Backend -->
-<a href="https://www.python.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/>
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>
+```yaml
+name:        Yogendra Singh
+role:        Full-Stack Software Engineer @ Ultralytics
+focus:       Web Platforms · AI Systems · Cloud Infrastructure
+building:    platform.ultralytics.com | qaready.net | bugreport.dev
+youtube:     87K+ subscribers @ TechDecode
+downloads:   1M+ (TurboCDroid)
+location:    Pune, India
+```
 
-<!-- Cloud & Infra -->
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-</a>
-<a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloudflare" width="40" height="40"/>
-</a>
-<a href="https://vercel.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/>
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a>
+---
 
-<!-- Dev Tools -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-<a href="https://playwright.dev/" target="_blank" rel="noreferrer">
-  <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/>
-</a>
+## 📌 Featured Projects
 
-<!-- AI / ML -->
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-</a>
-<a href="https://ultralytics.com/yolo" target="_blank" rel="noreferrer">
-  <img src="https://github.com/ultralytics/assets/blob/main/logo/favicon-yolo.png" alt="yolo" width="40" height="40"/>
-</a>
+| Project | Description |
+|---------|-------------|
+| 🔭 [**Ultralytics Platform**](https://platform.ultralytics.com) | Full-Stack Engineer at [Ultralytics](https://ultralytics.com), building the platform to train & deploy custom YOLO computer vision models |
+| 📱 [**TurboCDroid**](https://play.google.com/store/apps/details?id=www.turboc8.com.turbocdroider&hl=en_IN) | Developer of Turbo C++ on Android with 1M+ downloads |
+| 🐛 [**AI Bug Reporter**](https://bugreport.dev) | Converts bug descriptions into professional reports for GitHub, Jira, Azure DevOps & Linear |
+| 🧪 [**QA Ready**](https://qaready.net) | Free interview prep platform with 130+ questions for QA Engineers & SDETs covering JS, Playwright & testing |
+| 🗜️ [**ShortPNG**](https://yogendrasingh.in) | Browser-based image compression, up to 90% reduction with zero quality loss |
 
-</p>
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Backend & Databases**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**AI / ML / Computer Vision**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics_YOLO-111F68?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNEg5VjhIMTF2OHptNCAwaC0yVjhoMnY4eiIvPjwvc3ZnPg==&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Testing**
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yogendrasinghx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogendrasinghx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=yogendrasinghx&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📺 YouTube: TechDecode
+
+Building in public. Teaching programming, web development, and computer vision to **87K+ subscribers**.
+
+[![YouTube](https://img.shields.io/badge/Subscribe-%40TechDecode-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/techdecode)
+
+---
+
+<div align="center">
+
+*Full-Stack Engineer · Open Source Contributor · Content Creator*
+
+</div>
